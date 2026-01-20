@@ -1,0 +1,15 @@
+../Core/Src/it8951.c:10:6:waitForHRDY	16	static
+../Core/Src/it8951.c:16:5:LCDWriteCmdCode	24	static
+../Core/Src/it8951.c:32:5:LCDWriteData	24	static
+../Core/Src/it8951.c:49:5:LCDWriteNData	32	static
+../Core/Src/it8951.c:68:5:LCDReadData	24	static
+../Core/Src/it8951.c:89:5:LCDReadNData	40	static
+../Core/Src/it8951.c:115:5:getDeviceInfo	64	static
+../Core/Src/it8951.c:134:5:it8951_init	16	static
+../Core/Src/it8951.c:143:5:readReg	24	static
+../Core/Src/it8951.c:151:5:writeReg	16	static
+../Core/Src/it8951.c:161:5:setImgBufBaseAddr	24	static
+../Core/Src/it8951.c:170:5:loadPartialImage	32	static
+../Core/Src/it8951.c:202:6:pollLUTEngine	24	static
+../Core/Src/it8951.c:212:5:displayPartialImage	24	static
+../Core/Src/it8951.c:228:5:clearScreen	1488	static
